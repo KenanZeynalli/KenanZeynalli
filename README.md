@@ -26,7 +26,7 @@ My goal is to grow as a SOC Analyst, specializing in threat detection, log analy
 
 ---
 
-## 🛡️ Hackathon Experience : "Holberton School Data Driven Solutions Hackhathon" - Web Security
+## 🛡️ Hackathon Experience : Data Driven Solutions Hackhathon - Web Security
 
 - Contributed to a team-based website development project from a security perspective  
 - Identified potentially insecure logic and risky design decisions  
