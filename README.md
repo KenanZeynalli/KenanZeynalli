@@ -26,13 +26,12 @@ My goal is to grow as a SOC Analyst, specializing in threat detection, log analy
 
 ---
 
-### 🛡️ Hackathon Experience – Network Security
+## 🛡️ Hackathon Experience : "Holberton School Data Driven Solutions Hackhathon" - Web Security
 
-- Identified potential security risks and weak configurations in network scenarios  
-- Applied logical problem-solving to improve security posture  
-- Suggested and implemented safer configurations for identified issues  
-- Collaborated with team members to enhance overall system security
-
+- Contributed to a team-based website development project from a security perspective  
+- Identified potentially insecure logic and risky design decisions  
+- Applied secure thinking to improve application safety and reduce vulnerabilities  
+- Suggested safer implementations to prevent common security risks  
 --- 
 
 ## 🛠️ Technical Skills
